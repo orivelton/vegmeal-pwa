@@ -1,0 +1,17 @@
+{
+  "name": "VegMeal",
+  "short_name": "VegMeal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-prymary",
+  "icons": [
+    {
+      "src": "./",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+
+  ]
+}
